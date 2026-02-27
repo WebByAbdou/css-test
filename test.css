@@ -1,5 +1,0 @@
-body::after {
-    content: "CSS Injected!";
-    color: red;
-    font-size: 40px;
-}
